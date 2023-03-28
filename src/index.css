@@ -3,8 +3,10 @@
 }
 
 html {
-   background: #756e6e;
+   font-family: sans-serif;
+   background: #1f1f1f;
 }
+
 body {
    margin: 0;
 }
